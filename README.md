@@ -1,8 +1,8 @@
 ## Hi there 👋
 
--> I'm a data scientist @ Wix.com
--> Interested in creating impactful products that help humans live a better life
--> I’m currently working on a finance app that will help families interact with there finances 
+* I'm a data scientist @ Wix.com
+* Interested in creating impactful products that help humans live a better life
+* I’m currently working on a finance app that will help families interact with there finances 
 
 <!--
 **kirshdude/kirshdude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
