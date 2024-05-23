@@ -1,6 +1,6 @@
 ## Hi there :) 
 
-My name is Eyal Kirsh, I'm a Data scientist and an AI enthusiast. 
+My name is Eyal Kirsh, I'm a Data scientist and AI enthusiast. 
 
 * Data scientist @ Wix.com
 * Interested in creating impactful products that help humans live a better life
